@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Preview Desktop 
 
-![Projeto todo-list](/Project-List/src/assets/Capturar.PNG)
+![Projeto todo-list](/src/assets/Capturar.PNG)
 
 
 
